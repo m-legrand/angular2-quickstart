@@ -1,10 +1,12 @@
 # Angular 2 : Minimalist scaffold
 
-Type the following :
+This scaffold uses the [Angular.io's Quickstart](https://angular.io/docs/ts/latest/quickstart.html).
+
+Juste type the following :
 
 ```
-git clone [this repo] [your app name]
-cd [your app name]
+git clone https://github.com/m-legrand/angular2-quickstart.git myApp
+cd myApp
 rm -rf .git .gitignore README.md
 npm install
 npm start

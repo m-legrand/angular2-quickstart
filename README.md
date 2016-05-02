@@ -11,3 +11,5 @@ rm -rf .git .gitignore README.md
 npm install
 npm start
 ```
+
+See also the [official repository](https://github.com/angular/angular.io).
